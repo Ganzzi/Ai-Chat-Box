@@ -17,3 +17,4 @@ To run the application locally, follow these steps:
 8. Change .env.example to .env, paste your Project Id copied in chategine site to VITE_PROJECT_ID 
 9. Start client: ``` npm run dev ```
 10. Open the application in your web browser at ``` http://127.0.0.1:5173 ```
+11. Remember to add bot to your chat: member --> add member
