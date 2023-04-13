@@ -37,7 +37,7 @@ router.post("/signup", async (req, res) => {
         secret: password,
       },
       {
-        headers: { "Private-Key": process.env.PRIVATE_KEY },
+        headers: { "Private-Key": process.env.CHATENGINE_PRIVATE_KEY },
       }
     );
 
