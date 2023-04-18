@@ -2,6 +2,15 @@
 
 This is a AI chat app enable user to text other users, moreover ask text-davinci-003 ai model provided by OpenAi. But it no longer works because my trial has expired :)
 
+# Technique:
+1. React
+2. React-router-dom
+3. React-redux
+4. Vite
+5. Sass
+6. OpenAi
+7. ExpressJs
+
 # Installation: 
 To run the application locally, follow these steps:
 
@@ -18,3 +27,5 @@ To run the application locally, follow these steps:
 9. Start client: ``` npm run dev ```
 10. Open the application in your web browser at ``` http://127.0.0.1:5173 ```
 11. Remember to add bot to your chat: member --> add member
+
+# Resource: https://www.youtube.com/watch?v=ffEDkqfIzxM&list=LL&index=12
